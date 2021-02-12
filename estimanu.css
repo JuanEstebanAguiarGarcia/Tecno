@@ -1,0 +1,156 @@
+body{
+	background-image: url("c++.jpg");
+	
+	background-size: cover;	
+}
+
+.vuelta{
+	position: absolute;
+	display: block;
+	top: 100px;
+	height: 50px;
+	width: 150px;
+	left: 1500px;
+	color: white;
+	font-size: 50px;
+	font-family: chiller;
+	
+}
+
+.vuelta:hover{
+	color: orange;
+} 
+
+.titu{
+	position: absolute;
+	font-size: 38px;
+	top: 50px;
+
+	height: 45px;
+	width: 250px;
+	border-style: double;
+  border-color: #2E64FE;
+  background-color: #81F7F3;
+	left: 800px;
+	opacity: 1;
+	font-family: Bodoni MT Black;
+	opacity: 0.5;
+}
+.titu:hover{
+	opacity: 1;
+}
+
+.variables{
+	position:absolute;
+	font-size: 38px;
+	top: 150px;
+	height: 700px;
+	width: 1550px;
+	border-style: dotted;
+  border-color: green;
+  background-color: #A9F5D0;
+	left: 200px;
+	opacity: 05;
+	font-family: Elephant;
+	opacity: 0.5;
+
+}
+.variables:hover{
+	opacity: 1;
+}
+
+.goto{
+	position: absolute;
+	top: 950px;
+	left: 500px;
+	height: 850px;
+	width: 1050px;
+    border-color: red;
+	border-style: dashed;
+	background-color: #F5A9A9;
+	font-size: 40px;
+	opacity: 05;
+	font-family: Elephant;
+	opacity: 0.5;
+
+}
+.goto:hover{
+	opacity: 1;
+}
+.fogo{
+	position: absolute;
+	top: 1300px;
+	left: 800px;
+	height: 500px;
+	width: 500px;
+
+}
+
+
+.if{
+	position: absolute;
+	top: 1950px;
+	left: 500px;
+	height: 650px;
+	width: 1050px;
+    border-color: yellow;
+	border-style: outset;
+	background-color: #F3F781;
+	font-size: 40px;
+	opacity: 05;
+	font-family: Elephant;
+	opacity: 0.5;
+
+}
+.if:hover{
+	opacity: 1;
+}
+.vector{
+	position: absolute;
+	top: 2700px;
+	left: 500px;
+	height: 350px;
+	width: 1050px;
+    border-color: blue;
+	border-style: hidden;
+	background-color: #81DAF5;
+	font-size: 40px;
+	opacity: 05;
+	font-family: Elephant;
+	opacity: 0.5;
+
+}
+.vector:hover{
+	opacity: 1;
+}
+
+.libre{
+	position: absolute;
+	top: 3150px;
+	left: 500px;
+	height: 650px;
+	width: 1150px;
+    border-color: blue;
+	border-style: hidden;
+	background-color: #FAAC58;
+	font-size: 40px;
+	opacity: 05;
+	font-family: Elephant;
+	opacity: 0.5;
+
+}
+.libre:hover{
+	opacity: 1;
+}
+}
+
+.menu{
+	position: absolute;
+	top: 0px;
+	left: 100px;
+	font-size: 40px;
+	color: white;
+
+}
+
+}
