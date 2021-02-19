@@ -1,0 +1,65 @@
+body{
+	background-image: url("fonpar.png");
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+.par{
+	
+	top: 150px,
+	left: 50%;
+	font-size: 45px;
+	color: black;
+	font-family: Cooper Black;
+	opacity: 0.5;
+	width: 500px;
+	height: 50px;
+	background-color: #FA5858;
+}
+.par:hover{
+	opacity: 1;
+}
+.volver{
+		position: absolute;
+	display: block;
+	top: 50px;
+	height: 50px;
+	width: 150px;
+	right:  100px;
+	color: white;
+	font-size: 50px;
+	font-family: chiller;
+}
+
+.volver:hover{
+	color: orange;
+} 
+
+.titu{
+	position: absolute;
+	top: 150px;
+	left: 1200px;
+	width: 350px;
+	height: 75px;
+	background-color: #FA5858;
+	opacity: 0.5;
+	font-size: 50px;
+	font-family: stencil;
+}
+.titu:hover{
+	opacity: 1;
+}
+.comen{
+	position: absolute;
+	top: 250px;
+	left: 1000px;
+	height: 375px;
+	width: 800px;
+	font-size: 50px;
+	opacity: 0.5;
+	font-family: Rockwell;
+	background-color: #9FF781;
+
+}
+.comen:hover{
+	opacity: 1;
+}
