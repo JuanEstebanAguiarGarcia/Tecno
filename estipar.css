@@ -62,4 +62,20 @@ body{
 }
 .comen:hover{
 	opacity: 1;
+	
+}
+.fotos{
+	position: absolute;
+	top: 150px;
+	left: 100px;
+	width: 350px;
+	height: 75px;
+	background-color: #FA5858;
+	opacity: 0.5;
+	font-size: 50px;
+	font-family: stencil;
+
+}
+.fotos:hover{
+	opacity: 1;
 }
