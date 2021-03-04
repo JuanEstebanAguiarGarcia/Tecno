@@ -1,0 +1,101 @@
+body{
+		background-image: url("ex.jpeg");
+	
+	background-size: cover;	
+}
+.vuelta{
+	position: absolute;
+	display: block;
+	top: 100px;
+	height: 50px;
+	width: 150px;
+	left: 1500px;
+	color: white;
+	font-size: 50px;
+	font-family: chiller;
+	
+}
+
+.vuelta:hover{
+	color: orange;
+} 
+.titu{
+	position: absolute;
+	top: 50px;
+	width: 500px;
+	left: 700px;
+	height: 50px;
+	font-size: 40px;
+	border-style: double;
+	border-color: green;
+	font-family: cooper black;
+	opacity: 0.5;
+	color: black;
+	background-color: #BCF5A9;
+}
+.titu:hover{
+	opacity: 1;
+}
+.menu{
+	position: absolute;
+	left: 50px;
+	font-size: 15px;
+	color: white;
+	font-family: lucida console
+
+}
+.promedio{
+	position: absolute;
+	top: 200px;
+	height: 800px;
+	width: 900px;
+	left: 500px;
+	border-style: dotted;
+	background-color: #81BEF7;
+	color: black;
+	border-color: blue;
+	font-size: 40px;
+	opacity: 0.5;
+	font-family: forte;
+}
+.promedio:hover{
+	opacity: 1;
+}
+.foto{
+	position: absolute;
+	top: 600px;
+	width: 900px;
+	height: 200px;
+left: 0px;
+}
+
+.if{
+	position: absolute;
+	top: 1200px;
+	height: 1075px;
+	width: 900px;
+	left: 500px;
+	border-style: groove;
+	background-color: #F78181;
+	color: black;
+	border-color: red;
+	font-size: 40px;
+	opacity: 0.5;
+	font-family: cooper black;
+}
+.if:hover{
+	opacity: 1;
+}
+.if1{
+	position: absolute;
+	top: 600px;
+	width: 900px;
+	height: 200px;
+left: 0px;
+}
+.if2{
+	position: absolute;
+	top: 900px;
+	width: 900px;
+	left: 0;
+}
