@@ -87,3 +87,18 @@ font-size: 50px;
 .exce:hover{
 	color: orange;
 }
+.ani{
+position: absolute;
+display: block;
+top: 300px;
+height: 50px;
+width: 150px;
+left: 1000px;
+color: black;
+font-family: chiller;
+font-size: 50px;
+}
+.ani:hover{
+	color: orange;
+
+}
