@@ -1,0 +1,59 @@
+body{
+		background-image: url("fondo9.jpg");
+	background-size: cover;	
+}
+.vuelta{
+	position: absolute;
+	display: block;
+	top: 100px;
+	height: 50px;
+	width: 150px;
+	left: 1500px;
+	color: white;
+	font-size: 50px;
+	font-family: chiller;
+	
+}
+
+.vuelta:hover{
+	color: orange;
+} 
+.titulo{
+	position: absolute;
+	top: 50px;
+	width: 500px;
+	left: 700px;
+	height: 50px;
+	font-size: 45px;
+	border-style: double;
+	border-color: blue;
+	font-family: cooper black;
+	opacity: 0.5;
+	color: black;
+	background-color: #A9E2F3;
+}
+.titulo:hover{
+	opacity: 1;
+}
+.photo{
+	position: absolute;
+	top: 300px;
+	left: 400px;
+	height: 500px;
+	width: 500px;
+}
+.comen{
+	position: absolute;
+	top: 250px;
+	left: 1000px;
+	height: 500px;
+	width: 800px;
+	font-size: 50px;
+	opacity: 0.5;
+	font-family: forte;
+	background-color:  #A9E2F3;
+
+}
+.comen:hover{
+	opacity: 1;
+}
