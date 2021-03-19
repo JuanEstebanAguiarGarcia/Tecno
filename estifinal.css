@@ -1,0 +1,80 @@
+body{
+	background-image: url("final.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+
+
+.par{
+	
+	top: 150px,
+	left: 50%;
+	font-size: 45px;
+	color: black;
+	font-family: Cooper Black;
+	opacity: 0.5;
+	width: 500px;
+	height: 50px;
+	background-color: #FA5858;
+}
+.par:hover{
+	opacity: 1;
+}
+.volver{
+		position: absolute;
+	display: block;
+	top: 50px;
+	height: 50px;
+	width: 150px;
+	right:  100px;
+	color: white;
+	font-size: 50px;
+	font-family: chiller;
+}
+
+.volver:hover{
+	color: orange;
+} 
+.fin{
+	position: absolute;
+	height: 50px;
+	width: 120px;
+	left: 900px;
+	top: 50px;
+	font-size: 38px;
+	font-family: forte;
+	background-color: #F5A9A9;
+	border-style: dashed;
+	border-color: #FE2E2E;
+	opacity: 0.5;
+
+}
+.fin:hover{
+	opacity: 1;
+}
+.comen{
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	height: 350px;
+	width: 500px;
+	font-family: segoe ui black;
+	font-size: 35px;
+	background-color: #F7BE81;
+	border-color: #FE9A2E;
+	border-style: dotted;
+	opacity: 0.5;
+}
+.comen:hover{
+	opacity: 1;
+}
+.foto{
+	position: absolute;
+	top: 200px;
+	left: 1000px;
+	height: 700px;
+	width: 700px;
+	border-style: double;
+	border-color: blue;
+}
