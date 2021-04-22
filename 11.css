@@ -1,0 +1,61 @@
+body{
+	background-image: url("c++.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+.vuelta{
+	position: absolute;
+	display: block;
+	top: 100px;
+	height: 50px;
+	width: 150px;
+	left: 1500px;
+	color: black;
+	font-size: 50px;
+	font-family: chiller;
+	
+}
+.vuelta:hover{
+	color: orange;
+} 
+.s11{
+	font-size: 50px;
+	position: absolute;
+	top: 100px;
+	left: 650px;
+	opacity: 0.5;
+	z-index: 1;
+    font-family: Forte;
+    border-color: #A9D0F5;
+    border-style: double;
+    background-color: #5882FA;
+}
+.s11:hover{
+	opacity: 1;
+}
+
+.texto{
+font-size: 35px;
+	position: absolute;
+	top: 300px;
+	left: 150px;
+	opacity: 0.5;
+	z-index: 1;
+	width: 500px;
+	height: 350px;
+    font-family: Rockwell;
+    border-color: #A9D0F5;
+    border-style: double;
+    background-color: #5882FA;
+}
+.texto:hover{
+	opacity: 1;
+}
+.foto{
+ position: absolute;
+ left: 750px;
+ top: 300px;
+ width: 500px;
+ height: 500px;
+
+}
