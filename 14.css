@@ -1,0 +1,70 @@
+body{
+	background-image: url("ex.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+
+
+.vuelta{
+	position: absolute;
+	display: block;
+	top: 100px;
+	height: 50px;
+	width: 150px;
+	left: 1500px;
+	color: black;
+	font-size: 50px;
+	font-family: chiller;
+}
+.vuelta:hover{
+	color: orange;
+} 
+
+.titu{
+	font-size: 50px;
+	position: absolute;
+	top: 50px;
+	left: 650px;
+	opacity: 0.5;
+	z-index: 1;
+    font-family: Forte;
+    border-color: #01A9DB;
+    border-style: double;
+    background-color: #A9D0F5;
+}
+.titu:hover{
+	opacity: 1;
+}
+
+.comentario{
+	font-size: 50px;
+	position: absolute;
+	top: 200px;
+	left: 350px;
+	opacity: 0.5;
+	width: 1300px;
+	z-index: 1;
+    font-family: Forte;
+    border-color: #FF8000;
+    border-style: double;
+    background-color: #F5D0A9;
+}
+.comentario:hover{
+	opacity: 1;
+}
+.proceso{
+	position: absolute;
+	top: 550px;
+	left: 50px;
+	width: 900px;
+	height: 375px;
+}
+.ejecucion{
+	position: absolute;
+	top: 550px;
+	left: 1000px;
+	width: 800px;
+	height: 350px;
+
+
+}
