@@ -54,3 +54,17 @@ font-size: 50px;
 .s11:hover{
 	color: orange;
 }
+.s14{
+position: absolute;
+display: block;
+top: 300px;
+
+left: 500px;
+color: black;
+font-family: chiller;
+font-size: 50px;
+}
+
+.s14:hover{
+	color: orange;
+}
